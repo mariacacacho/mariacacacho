@@ -9,4 +9,4 @@
 - languages: english/spanish
 - school: engineer's degree, computer engineering
 
-<p><a href="https://twitter.com/mariacacacho"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mar%C3%ADa-pacheco-30682820b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://codepen.io/mariacacacho"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fcodepen.io%2Fmariacacacho&style=flat&logo=codepen&logoColor=white&label=Codepen"></a></p>
+<p><a href="https://twitter.com/mariacacacho"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mar%C3%ADa-pacheco-30682820b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
