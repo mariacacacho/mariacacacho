@@ -1,4 +1,4 @@
-## hi, i'm maría <picture> <img alt="catcode" src="[https://camo.githubusercontent.com/0df1c27a194a654fe3b03c9dfe318fb0c9a62e994ed1042e611408aa3f4fa3f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZmM3V0ZGF1Mnk5eWJmY2loc29tZ3dydWd1Z205djJuazJ2ZHljaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XfC0naZy517FZ7iSMG/giphy.webp)" width='50'> </picture>
+## hi, i'm maría <picture> <img alt="catcode" src="https://github.com/mariacacacho/mariacacacho/blob/main/giphy1-ezgif.com-webp-to-gif-converter.gif" width='50'> </picture>
 
 <!--
 **mariacacacho/mariacacacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
