@@ -1,5 +1,7 @@
 ## hi, i'm maría <picture> <img alt="catcode" src="https://github.com/mariacacacho/mariacacacho/blob/main/giphy1-ezgif.com-webp-to-gif-converter.gif" width='50'> </picture>
 
+💌 <a href="mailto:mrcacacho@gmail.com">mrcacacho@gmail.com</a>
+
 〰 fullstack software engineer • development • tech content 〰
 
 - about me: hi, i'm María. i am a dedicated fullstack engineer with a solid five years of experience in web development and UI/UX design.
